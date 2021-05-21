@@ -111,4 +111,4 @@ async def on_message(message):
         await message.channel.send('又怎樣又怎樣?')
 
 
-client.run('ODQ0OTE1MTE3ODcwODA5MTA5.YKZWhQ.WOkj5-gulsDEdem1x4kKZj-8QcU') #TOKEN在剛剛Discord Developer那邊「BOT」頁面裡面
+client.run('') #TOKEN在剛剛Discord Developer那邊「BOT」頁面裡面
